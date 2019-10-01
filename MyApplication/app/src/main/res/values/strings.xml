@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Yellow Cab Ride Along</string>
+    <string name="edit_destination_string"> Enter Destination</string>
+    <string name="button_string">Calculate My Trip</string>
+    <string name="results_string"></string>
+    <string name="number_of_passengers"># of Passengers</string>
+    <string name="edit_location_string">Your Location</string>
+</resources>
